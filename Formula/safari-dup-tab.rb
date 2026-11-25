@@ -1,8 +1,8 @@
 class SafariDupTab < Formula
   desc "Make Cmd+T in Safari duplicate the current tab, right next to it"
   homepage "https://github.com/partytimeexcellent/safari-dup-tab"
-  url "https://github.com/partytimeexcellent/safari-dup-tab/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "846378fc6d4482339181ef3051d95c13a9e444314ea0e82f16edbb6cbdf1325f"
+  url "https://github.com/partytimeexcellent/safari-dup-tab/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "49699eba786146568beb8317fcf65dc321450692593f8f7ae4f78ac692212f42"
   license "MIT"
 
   depends_on :macos
